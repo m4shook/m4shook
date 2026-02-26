@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🚀 Web Developer | AI/ML Enthusiast<br>👨‍💻 3rd-year CSE student at AJIET<br>💡 Passionate about building modern web applications & exploring AI/ML<br>🔧 Specializing in WordPress, Shopify, and full-stack development<br>🤖 Learning and implementing AI/ML models in real-world applications
 
 
